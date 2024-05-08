@@ -5,11 +5,13 @@ import Shop from './Pages/Shop'
 import ShopCategory from './Pages/ShopCategory'
 import Product from './Pages/Product'
 import Cart from './Pages/Cart'
-import LoginSignup from './Pages/LoginSignup'
+import Signup from './Pages/Signup'
+import Login from './Pages/Login'
 import Footer from './Components/Footer/Footer'
 import men_banner from './Components/assets/banner_mens.png'
 import women_banner from './Components/assets/banner_women.png'
 import kid_banner from './Components/assets/banner_kids.png'
+import Appointmnet from './Components/Appointment/Appointment'
 
 function App() {
 
@@ -25,8 +27,10 @@ function App() {
           <Route path='/product' element={<Product />}>
             <Route path=':productId' element={<Product />} />
           </Route>
+          <Route path='/eyeTest' element={<Appointmnet />} />
+          <Route path='/login' element={<Login />} />
+          <Route path='/register' element={<Signup />} />
           <Route path='/cart' element={<Cart />} />
-          <Route path='/login' element={<LoginSignup />} />
         </Routes>
         <Footer />
       </BrowserRouter>

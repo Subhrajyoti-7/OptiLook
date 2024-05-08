@@ -1,0 +1,81 @@
+.body{
+    height: 100%;
+    width:100%;
+    background-image: url('../../Components/assets/Appointment.jpg');
+    background-size: cover;
+
+
+
+}
+
+.inner-layer{
+    height: 100%;
+    width:100%;
+   
+    background-color: rgba(0, 147, 173, 0.9);
+}
+
+.form-data{
+    margin-top: 15%;
+    margin-bottom: 35%;
+    background-color: #fff;
+}
+
+.form-body{
+    padding: 20px;
+}
+
+.form-head{
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.form-head h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.form-row{
+    margin-bottom: 10px;
+}
+
+
+.form-control{
+    background-color: #f7f7ff;
+}
+.form-control :focus{
+    box-shadow: none;
+    border: 3px solid #138496;
+}
+
+.address-col{
+    margin-bottom: 10px;
+}
+
+.btn-appointment{
+    background-color: #138496 !important;
+    border-color: #138496 !important;
+}
+
+.content{
+    margin-top: 15%;
+    text-align: center;
+    color: #fff;
+    padding:30px;
+}
+
+.content h1{
+    font-weight: 600;
+    font-size: 3.5rem;
+}
+
+.content p{
+    font-size: 22px;
+}
+
+.form-style{
+    border-radius: 15px;
+}
+.no-margin{
+    margin:0px;
+}

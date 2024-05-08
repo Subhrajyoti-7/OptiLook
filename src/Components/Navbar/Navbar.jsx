@@ -9,7 +9,7 @@ import search from '../assets/search.png'
 import store from '../assets/location.png'
 import accLogo from '../assets/profile.png'
 import wish from '../assets/like.png'
-import tryOn from '../assets/tryOn.png'
+import eye_scan from '../assets/eye-scan.png'
 
 const Navbar = () => {
     const [menu, setMenu] = useState("");
@@ -77,8 +77,8 @@ const Navbar = () => {
                     <li onClick={() => navMenuListClicked("women")}><Link to='/women'>Sunglass</Link>{menu === "women" && <hr />}</li>
                     <li onClick={() => navMenuListClicked("kids")}><Link to='/kids'>Computer Glass</Link>{menu === "kids" && <hr />}</li>
                 </ul>
-                <div className="try">
-                    <Link to='/tryOn'><img src={tryOn} width={30} alt="cart_icon" /></Link>
+                <div className="test">
+                    <Link to='/eyeTest'><img src={eye_scan} width={30} alt="Eye Test" /></Link>
                 </div>
                 <div className="wishlist">
                     <Link to='/wishlist'><img src={wish} width={30} alt="cart_icon" /></Link>
