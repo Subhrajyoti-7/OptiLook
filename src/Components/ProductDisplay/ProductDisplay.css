@@ -1,8 +1,10 @@
 .productDisplay {
+    width: 93vw;
     display: flex;
-    margin: 0px 170px;
+    margin-left: 5vw;
 }
 .productDisplay-left {
+    width: 60vw;
     display: flex;
     gap: 17px;
 }
@@ -19,7 +21,8 @@
     height: 700px;
 }
 .productDisplay-right {
-    margin: 0px 70px;
+    width: 30vw;
+    margin: 0px 40px;
     display: flex;
     flex-direction: column;
 }
