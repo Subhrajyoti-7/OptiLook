@@ -12,6 +12,7 @@ import men_banner from './Components/assets/banner_mens.png'
 import women_banner from './Components/assets/banner_women.png'
 import kid_banner from './Components/assets/banner_kids.png'
 import Appointmnet from './Components/Appointment/Appointment'
+import Review from './Components/Review/ReviewPage'
 
 function App() {
 
@@ -31,6 +32,7 @@ function App() {
           <Route path='/login' element={<Login />} />
           <Route path='/register' element={<Signup />} />
           <Route path='/cart' element={<Cart />} />
+          <Route path='/review' element={<Review/>}/>
         </Routes>
         <Footer />
       </BrowserRouter>

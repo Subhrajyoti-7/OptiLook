@@ -53,3 +53,9 @@
     height: 3px;
     background: #c7c7c7;
 }
+.reviewPage li{
+    list-style: none;
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+}
