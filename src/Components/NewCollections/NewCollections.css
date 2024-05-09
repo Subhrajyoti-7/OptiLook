@@ -6,15 +6,17 @@
     margin-bottom: 100px;
 }
 .newCollections h1{
-    color: #171717;
+    color: #026d91;
     font-size: 50px;
     font-weight:600 ;
+    margin-top: 80px;
 }
 .newCollections hr{
     width: 200px;
     height: 6px;
     border-radius: 10px;
-    background: #252525;
+    background: #000000;
+    margin-bottom: -50px;
 }
 .collections {
     display: grid;

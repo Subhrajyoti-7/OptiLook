@@ -40,8 +40,9 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    /* padding-top: 50px; */
+    padding-top: 50px;
 }
 .offers-right img{
-    width: 250px;
+    width: 300px;
+    border-radius: 30px;
 }
