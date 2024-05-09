@@ -51,6 +51,18 @@
     margin-right: 5px;
 }
 
+.trackLogo img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+.trackText{
+    list-style: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+
 .account {
     display: flex;
     align-items: center;

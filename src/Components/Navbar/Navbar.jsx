@@ -10,6 +10,7 @@ import store from '../assets/location.png'
 import accLogo from '../assets/profile.png'
 import wish from '../assets/like.png'
 import eye_scan from '../assets/eye-scan.png'
+import trackLogo from '../assets/tracking.png'
 
 const Navbar = () => {
     const [menu, setMenu] = useState("");
@@ -40,6 +41,16 @@ const Navbar = () => {
                         Find Store
                     </div>
                 </div>
+
+                <div className="store">
+                    <div className="trackLogo">
+                        <img src={trackLogo} alt="" />
+                    </div>
+                    <div className="trackText">
+                        <li><Link to='/track'><span style={{color:'white'}}>Track Order</span></Link></li>
+                    </div>
+                </div>
+
 
                 <div className="account">
                     <div className="accLogo">

@@ -38,7 +38,7 @@ import p36_img from "./product_36.png";
 let all_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1299.00,
@@ -46,7 +46,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1649.00,
@@ -54,7 +54,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1160.00,
@@ -62,7 +62,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1450.00,
@@ -70,7 +70,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 850.00,
@@ -78,7 +78,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1899.00,
@@ -86,7 +86,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1199.00,
@@ -94,7 +94,7 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 2249.00,
@@ -102,7 +102,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1780.00,
@@ -110,7 +110,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1199.00,
@@ -118,7 +118,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 2249.00,
@@ -126,7 +126,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shaped falf frame black",
     category: "women",
     image: p3_img,
     new_price: 1780.00,
@@ -134,7 +134,7 @@ let all_product = [
   },
   {
     id: 13,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 2249.00,
@@ -142,7 +142,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1199.00,
@@ -150,7 +150,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1780.00,
@@ -158,7 +158,7 @@ let all_product = [
   },
   {
     id: 16,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 2249.00,
@@ -166,7 +166,7 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1780.00,
@@ -174,7 +174,7 @@ let all_product = [
   },
   {
     id: 18,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1199.00,
@@ -182,7 +182,7 @@ let all_product = [
   },
   {
     id: 19,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1780.00,
@@ -190,7 +190,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 2249.00,
@@ -198,7 +198,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1199.00,
@@ -206,7 +206,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1780.00,
@@ -214,7 +214,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 999.00,
@@ -222,7 +222,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Rectangle shaped glussy Day Night Eyeglass",
     category: "men",
     image: p2_img,
     new_price: 1199.00,
@@ -230,7 +230,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1780.00,
@@ -238,7 +238,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 2249.00,
@@ -246,7 +246,7 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1780.00,
@@ -254,7 +254,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 2890.00,
@@ -262,7 +262,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1780.00,
@@ -270,7 +270,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 2249.00,
@@ -278,7 +278,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1780.00,
@@ -286,7 +286,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 3245.00,
@@ -294,7 +294,7 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1199.00,
@@ -302,7 +302,7 @@ let all_product = [
   },
   {
     id: 34,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1780.00,
@@ -310,7 +310,7 @@ let all_product = [
   },
   {
     id: 35,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 2249.00,
@@ -318,7 +318,7 @@ let all_product = [
   },
   {
     id: 36,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Square framed black",
     category: "kid",
     image: p1_img,
     new_price: 1199.00,

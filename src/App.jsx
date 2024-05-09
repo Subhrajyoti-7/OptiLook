@@ -13,6 +13,7 @@ import women_banner from './Components/assets/banner_women.png'
 import kid_banner from './Components/assets/banner_kids.png'
 import Appointmnet from './Components/Appointment/Appointment'
 import Review from './Components/Review/ReviewPage'
+import TrackOrder from './Components/TrackOrder/TrackOrder'
 
 function App() {
 
@@ -33,6 +34,7 @@ function App() {
           <Route path='/register' element={<Signup />} />
           <Route path='/cart' element={<Cart />} />
           <Route path='/review' element={<Review/>}/>
+          <Route path='/track' element={<TrackOrder/>}/>
         </Routes>
         <Footer />
       </BrowserRouter>

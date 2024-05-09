@@ -6,7 +6,7 @@ import p4_img from './product_4.png'
 let data_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shape falf rimmed black",
     category: "women",
     image: p1_img,
     new_price: 1299.00,
@@ -14,7 +14,7 @@ let data_product = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shape falf rimmed black",
     category: "women",
     image: p2_img,
     new_price: 1649.00,
@@ -22,7 +22,7 @@ let data_product = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shape falf rimmed black",
     category: "women",
     image: p3_img,
     new_price: 1160.00,
@@ -30,7 +30,7 @@ let data_product = [
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Square shape falf rimmed black",
     category: "women",
     image: p1_img,
     new_price: 1450.00,
