@@ -14,6 +14,7 @@ import kid_banner from './Components/assets/banner_kids.png'
 import Appointmnet from './Components/Appointment/Appointment'
 import Review from './Components/Review/ReviewPage'
 import TrackOrder from './Components/TrackOrder/TrackOrder'
+// import TryOn from './Components/Virtual/TryOn'
 
 function App() {
 
@@ -35,6 +36,7 @@ function App() {
           <Route path='/cart' element={<Cart />} />
           <Route path='/review' element={<Review/>}/>
           <Route path='/track' element={<TrackOrder/>}/>
+          {/* <Route path='/wishlist' element={<TryOn/>}/> */}
         </Routes>
         <Footer />
       </BrowserRouter>

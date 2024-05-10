@@ -47,7 +47,7 @@ const Navbar = () => {
                         <img src={trackLogo} alt="" />
                     </div>
                     <div className="trackText">
-                        <li><Link to='/track'><span style={{color:'white'}}>Track Order</span></Link></li>
+                        <li><Link to='/track'><span style={{ color: 'white' }}>Track Order</span></Link></li>
                     </div>
                 </div>
 
@@ -83,18 +83,15 @@ const Navbar = () => {
                             <a>c</a>
                         </div>
                     </li> */}
-                    <li onClick={() => navMenuListClicked("shop")}><Link to='/'>Home</Link>{menu === "shop" && <hr />}</li>
-                    <li onClick={() => navMenuListClicked("mens")}><Link to='/mens'>PowerGlass</Link>{menu === "mens" && <hr />}</li>
-                    <li onClick={() => navMenuListClicked("women")}><Link to='/women'>Sunglass</Link>{menu === "women" && <hr />}</li>
-                    <li onClick={() => navMenuListClicked("kids")}><Link to='/kids'>Computer Glass</Link>{menu === "kids" && <hr />}</li>
+                    <li onClick={() => navMenuListClicked("shop")}><Link to='/'><span style={{ color: "Black" }}>Home</span></Link>{menu === "shop" && <hr />}</li>
+                    <li onClick={() => navMenuListClicked("mens")}><Link to='/mens'><span style={{ color: "Black" }}>PowerGlass</span></Link>{menu === "mens" && <hr />}</li>
+                    <li onClick={() => navMenuListClicked("women")}><Link to='/women'><span style={{ color: "Black" }}>Sunglass</span></Link>{menu === "women" && <hr />}</li>
+                    <li onClick={() => navMenuListClicked("kids")}><Link to='/kids'><span style={{ color: "Black" }}>Computer Glass</span></Link>{menu === "kids" && <hr />}</li>
                 </ul>
                 <div className="test">
                     <Link to='/eyeTest'><img src={eye_scan} width={30} alt="Eye Test" /></Link>
                 </div>
-                <div className="wishlist">
-                    <Link to='/wishlist'><img src={wish} width={30} alt="cart_icon" /></Link>
-                    {/* <div className="nav-wish-count">{getTotalWishItems()}</div> */}
-                </div>
+                
                 <div className="nav-login-cart">
                     {/* <Link to='/login'><button>Login</button></Link> */}
                     <Link to='/cart'><img src={cart_icon} width={30} alt="cart_icon" /></Link>

@@ -36,23 +36,32 @@ const ProductDisplay = (props) => {
                     <div className="productDisplay-right-price-new">Rs. {product.new_price}/-</div>
                 </div>
                 <div className="productDisplay-right-description">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Ad quae iste voluptate veniam necessitatibus deserunt voluptas.
-                    Quia reiciendis officiis, quibusdam explicabo minus nemo magnam nihil cum corrupti molestias laudantium officia?
+                    Coupons for you <br />
+
+                    Special PriceGet extra 10% off upto ₹200 on 1 item(s) (price inclusive of cashback / coupon)T&C
+
+                    <br/><br />
+                    Available offers <br />
+
+                    Bank OfferGet ₹25 instant discount on first Flipkart UPI txns on order of ₹250 and aboveT&C <br />
+
+                    Bank Offer5% Cashback on Flipkart Axis Bank CardT&C <br />
+
+                    Partner OfferSign-up for Flipkart Pay Later & get free Times Prime Benefits worth ₹20,000*Know More <br /><br />
+
+                    +1 more offer
                 </div>
                 <div className="productDisplay-right-size">
                     <h1>Select Size</h1>
                     <div className="productDisplay-right-sizes">
-                        <div>S</div>
-                        <div>M</div>
-                        <div>L</div>
-                        <div>XL</div>
-                        <div>XXL</div>
+                        <div>Small</div>
+                        <div>Meduim</div>
+                        <div>Large</div>
                     </div>
                 </div>
                 <button onClick={() => { addToCart(product.id) }}>ADD TO CART</button>
-                <p className='productDisplay-right-category'><span>Category :</span>Women , T-Shirt , Crop Top</p>
-                <p className='productDisplay-right-category'><span>Tags :</span>Modern , Latest</p>
+                <p className='productDisplay-right-category'><span>Category :</span>Sun glass , full frame , Black</p>
+                <p className='productDisplay-right-category'><span>Tags :</span>Rectangle , Latest</p>
             </div>
         </div>
     )
