@@ -8,7 +8,7 @@ import { ShopContext } from '../../Context/ShopContext'
 import search from '../assets/search.png'
 import store from '../assets/location.png'
 import accLogo from '../assets/profile.png'
-import wish from '../assets/like.png'
+// import wish from '../assets/like.png'
 import eye_scan from '../assets/eye-scan.png'
 import trackLogo from '../assets/tracking.png'
 
@@ -91,7 +91,7 @@ const Navbar = () => {
                 <div className="test">
                     <Link to='/eyeTest'><img src={eye_scan} width={30} alt="Eye Test" /></Link>
                 </div>
-                
+
                 <div className="nav-login-cart">
                     {/* <Link to='/login'><button>Login</button></Link> */}
                     <Link to='/cart'><img src={cart_icon} width={30} alt="cart_icon" /></Link>
